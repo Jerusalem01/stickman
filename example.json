@@ -1,0 +1,11 @@
+{
+  "_comment": "This is the sample JSON file. You must use this format for your JSON files as we will be using similar formats when marking your assignment. Anything starting with an underscore (like this _comment) should be ignored.",
+  "stickmanSize": "small",
+  "_stickmanSizeComment": "Your main character can be normal or large. What pixel dimensions these match can be up to you.",
+  "stickmanPos": {
+    "x": 20.0
+  },
+  "_stickmanPosComment": "Stickman should start at the x position indicated, with their y position being on your 'floor'. This must be a positive double.",
+  "cloudVelocity": 3.2,
+  "_cloudVelocityComment": "Clouds should move the given number of pixels per second. This must be a positive double."
+}

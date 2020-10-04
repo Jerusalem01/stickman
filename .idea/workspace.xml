@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c01d36bc-4ba2-4fb5-93a7-56e74e3f70e5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="E:/JAVA/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="E:\JAVA\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1i8ON18a1NXGUe7ToNotUBK0yWb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="F:/小项目作业/基于Java的超级玛丽游戏的设计与实现/代码" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\IDEA_place\stickman\src\main\resources" />
+      <recent name="E:\IDEA_place\stickman\src\main\java\stickman\model" />
+      <recent name="E:\IDEA_place\stickman\src\main\java\stickman\new" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.APP">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stickman.App" />
+      <module name="2201asm2.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="stickman.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stickman.App" />
+      <module name="2201asm2.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="stickman.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.APP" />
+        <item itemvalue="Application.App" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c01d36bc-4ba2-4fb5-93a7-56e74e3f70e5" name="Default Changelist" comment="" />
+      <created>1601285708411</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601285708411</updated>
+      <workItem from="1601285713397" duration="347000" />
+      <workItem from="1601287712275" duration="7235000" />
+      <workItem from="1601294974972" duration="1450000" />
+      <workItem from="1601349979772" duration="8260000" />
+      <workItem from="1601447671943" duration="16000" />
+      <workItem from="1601708689076" duration="3061000" />
+      <workItem from="1601712430620" duration="3988000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="506" y="215" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601713276399">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="506" y="215" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824/-1440.182.1440.860@0.0.1536.824" timestamp="1601713276399" />
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1601714391517">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824/-1440.182.1440.860@0.0.1536.824" timestamp="1601714391517" />
+    <state x="549" y="168" key="FileChooserDialogImpl" timestamp="1601714510467">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="-925" y="357" key="FileChooserDialogImpl/0.0.1536.824/-1440.182.1440.860@-1440.182.1440.860" timestamp="1601711176085" />
+    <state x="549" y="168" key="FileChooserDialogImpl/0.0.1536.824/-1440.182.1440.860@0.0.1536.824" timestamp="1601714510467" />
+    <state width="1493" height="77" key="GridCell.Tab.0.bottom" timestamp="1601716422600">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1397" height="184" key="GridCell.Tab.0.bottom/0.0.1536.824/-1440.182.1440.860@-1440.182.1440.860" timestamp="1601711129854" />
+    <state width="1493" height="77" key="GridCell.Tab.0.bottom/0.0.1536.824/-1440.182.1440.860@0.0.1536.824" timestamp="1601716422600" />
+    <state width="1493" height="77" key="GridCell.Tab.0.center" timestamp="1601716422600">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1397" height="184" key="GridCell.Tab.0.center/0.0.1536.824/-1440.182.1440.860@-1440.182.1440.860" timestamp="1601711129853" />
+    <state width="1493" height="77" key="GridCell.Tab.0.center/0.0.1536.824/-1440.182.1440.860@0.0.1536.824" timestamp="1601716422600" />
+    <state width="1493" height="77" key="GridCell.Tab.0.left" timestamp="1601716422600">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1397" height="184" key="GridCell.Tab.0.left/0.0.1536.824/-1440.182.1440.860@-1440.182.1440.860" timestamp="1601711129853" />
+    <state width="1493" height="77" key="GridCell.Tab.0.left/0.0.1536.824/-1440.182.1440.860@0.0.1536.824" timestamp="1601716422600" />
+    <state width="1493" height="77" key="GridCell.Tab.0.right" timestamp="1601716422600">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1397" height="184" key="GridCell.Tab.0.right/0.0.1536.824/-1440.182.1440.860@-1440.182.1440.860" timestamp="1601711129854" />
+    <state width="1493" height="77" key="GridCell.Tab.0.right/0.0.1536.824/-1440.182.1440.860@0.0.1536.824" timestamp="1601716422600" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1601711424690">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.824/-1440.182.1440.860@0.0.1536.824" timestamp="1601711424690" />
+  </component>
+</project>
