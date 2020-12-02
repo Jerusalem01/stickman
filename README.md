@@ -4,17 +4,12 @@
 超级玛丽小游戏
 
 #### 软件架构
-软件架构说明
 
 
-#### 安装教程
+#### 友情链接
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+- **[个人博客](http://www.nm83.com)**
 
-#### 使用说明
+- **[码云](https://gitee.com/jerusalem01)**
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+- **[GitHub](https://github.com/Jerusalem01)**
